@@ -7,4 +7,4 @@ As well adding any customization I feel like adding.
 
 <ul>
 <li>15/12/2023: Finished "Get Started" and "Add Model" with all scaffolding and migration. As well changed launchSettings.json to only use HTTPS</li>
-</ul>git branch -M main
+</ul>
