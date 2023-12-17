@@ -6,6 +6,7 @@ This repo is to keep the source code I created during reading:</br>
 As well adding any customization I feel like adding.
 
 <ul>
+<li>17/12/2023: Added model validations</li>
 <li>17/12/2023: Added Movie Rating property</li>
 <li>17/12/2023: Added Movie search and genre filter</li>
 <li>15/12/2023: Added SeedData</li>
