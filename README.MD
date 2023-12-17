@@ -6,6 +6,7 @@ This repo is to keep the source code I created during reading:</br>
 As well adding any customization I feel like adding.
 
 <ul>
+<li>17/12/2023: Added Movie search and genre filter</li>
 <li>15/12/2023: Added SeedData</li>
 <li>15/12/2023: Finished "Get Started" and "Add Model" with all scaffolding and migration. As well changed launchSettings.json to only use HTTPS. Used command "dotnet new gitignore" to create gitignore file</li>
 </ul>
